@@ -1,4 +1,4 @@
-# John Doe - Resume Website
+# navishu  vermaJohn Doe - Resume Website
 
 A simple HTML resume website for John Doe, featuring professional experience, skills, projects, and contact information.
 
